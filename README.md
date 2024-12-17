@@ -3,9 +3,10 @@ Hi! I’m a motivated web developer with a passion for building intuitive, respo
 
 💡 Key Strengths:
 
-Frontend Expertise: Proficient in modern frameworks and responsive design principles 🌐
-Backend Skills: Skilled in building robust APIs and efficient database solutions 🔧
-Problem-Solving: Adept at tackling complex challenges with innovative solutions ⚙️
+-🌐Frontend Expertise: Proficient in modern frameworks and responsive design principles 
+
+-⚙️Problem-Solving: Adept at tackling complex challenges with innovative solutions 
+
 📈 What I Bring:
 
 Strong focus on performance optimization and clean code
