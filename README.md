@@ -1,3 +1,4 @@
+⚙️
 👨‍💻 Web Developer | Crafting Seamless Digital Experiences
 Hi! I’m a motivated web developer with a passion for building intuitive, responsive, and scalable web solutions. I specialize in both frontend and backend development, combining creativity with functionality to deliver outstanding user experiences. 🚀
 
