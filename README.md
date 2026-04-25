@@ -66,12 +66,12 @@ I build full-stack products from scratch: idea → architecture → deployment.
 
 ## Featured Projects
 
-### Na9raw — Food-Ordering Platform
-> **Role:** CEO & Co-founder · Full-Stack Developer · *Active*
+### Na9raw — Education Platform · [na9raw.vercel.app](https://na9raw.vercel.app)
+> **Role:** Co-founder · Web Frontend Developer · *Active*
 
-A real food-ordering platform built with a team, serving real users. Responsible for product direction and the full technical architecture.
+All-in-one education platform (نقراو — "we study") bridging students, courses, and collaboration via web and mobile. Students and teachers can browse courses, chat, and pay — all synced in real-time. I built the web frontend and drove the migration from a React SPA to Next.js for dynamic SEO and server-side caching.
 
-`Next.js 16` `Flutter` `Firebase` `TypeScript` `Tailwind CSS v4`
+`Next.js 16` `React 19` `TypeScript` `Tailwind CSS v4` `Firebase` `Flutter` `AWS S3` `Paymee` `Framer Motion`
 
 ---
 
