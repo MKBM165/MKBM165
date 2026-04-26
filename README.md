@@ -21,7 +21,7 @@
 ## About Me
 
 3rd-year **Business Computing** student at ESSECT (Tunis), E-Business specialty.  
-I co-founded **[Na9raw](https://na9raw.tn)** — a food-ordering platform — and I'm completing my final-year project at **Medicom**: an AI-powered surgical operation management system.
+I co-founded **[Na9raw](https://na9raw.tn)** — an all-in-one education platform — and I'm completing my final-year project at **Medicom**: an AI-powered surgical operation management system.
 
 I build full-stack products from scratch: idea → architecture → deployment.
 
