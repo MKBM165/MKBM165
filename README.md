@@ -21,7 +21,7 @@
 ## About Me
 
 3rd-year **Business Computing** student at ESSECT (Tunis), E-Business specialty.  
-I co-founded **[Na9raw](https://github.com/MKBM165)** — a food-ordering platform — and I'm completing my final-year project at **Medicom**: an AI-powered surgical operation management system.
+I co-founded **[Na9raw](https://na9raw.tn)** — a food-ordering platform — and I'm completing my final-year project at **Medicom**: an AI-powered surgical operation management system.
 
 I build full-stack products from scratch: idea → architecture → deployment.
 
@@ -66,12 +66,12 @@ I build full-stack products from scratch: idea → architecture → deployment.
 
 ## Featured Projects
 
-### Na9raw — Education Platform · [na9raw.vercel.app](https://na9raw.vercel.app)
-> **Role:** Co-founder · Web Frontend Developer · *Active*
+### Na9raw — Education Platform · [na9raw.tn](https://na9raw.tn)
+> **Role:** Co-founder · Full Stack Developer · *Active*
 
 All-in-one education platform (نقراو — "we study") bridging students, courses, and collaboration via web and mobile. Students and teachers can browse courses, chat, and pay — all synced in real-time. I built the web frontend and drove the migration from a React SPA to Next.js for dynamic SEO and server-side caching.
 
-`Next.js 16` `React 19` `TypeScript` `Tailwind CSS v4` `Firebase` `Flutter` `AWS S3` `Paymee` `Framer Motion`
+`Next.js 16` `TypeScript` `Tailwind CSS v4` `Firebase` `AWS S3`
 
 ---
 
@@ -97,9 +97,9 @@ Full-stack goal-tracking app with geolocation-based visualization. Users pin goa
 
 | Certificate | Issuer | Date |
 |-------------|--------|------|
-| 🤖 Claude Code in Action | Anthropic | Mar 2026 |
-| 🤖 Certificate of Completion: Claude 101 | Anthropic | Mar 2026 |
-| 🟢 Applications of AI for Anomaly Detection | NVIDIA | Oct 2025 |
+|  Claude Code in Action | Anthropic | Mar 2026 |
+|  Certificate of Completion: Claude 101 | Anthropic | Mar 2026 |
+|  Applications of AI for Anomaly Detection | NVIDIA | Oct 2025 |
 
 ---
 
